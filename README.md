@@ -165,6 +165,8 @@ override fun onResume() {
 
 ## Sample Code
 
+The sample code below shows how to add GliaPlayerView to the UI layout so that it always sticks to the bottom right corner of the screen.
+
 ```kotlin
 package com.example.gliaplayer_andriod_poc
 
